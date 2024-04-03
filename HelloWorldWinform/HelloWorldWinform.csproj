@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="img.png" />
+    <Content Include="labrador_dog_animal_15967.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
